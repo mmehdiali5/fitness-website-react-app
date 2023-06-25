@@ -1,0 +1,54 @@
+[
+  {
+    "searchId": 1,
+    "searchBody": "Hello! this is the first search",
+    "searchTitle": "Post title",
+    "imageUrl": "default.jpg",
+    "searchUserName": "Saravanan",
+    "searchUserHandle": ".  @saran",
+    "upvoteCount": 1,
+    "posts":58,
+    "followers":32,
+    "following":83,
+    "upvoteByCurrentUser": true
+  },
+  {
+    "searchId": 2,
+    "searchBody": "Hello! this is the second search from same user",
+    "searchTitle": "Post title",
+    "imageUrl": "default.jpg",
+    "searchUserName": "Muhammed Mehdi",
+    "searchUserHandle": ".  @mehdi",
+    "upvoteCount": 0,
+    "posts":5,
+    "followers":7,
+    "following":13,
+    "upvoteByCurrentUser": false
+  },
+  {
+    "searchId": 3,
+    "searchBody": "Hello! this is the third search from same user",
+    "searchTitle": "Post title",
+    "imageUrl": "default.jpg",
+    "searchUserName": "Pavithra Sowmiyan",
+    "searchUserHandle": ".  @pavi",
+    "upvoteCount": 0,
+    "posts":34,
+    "followers":23,
+    "following":64,
+    "upvoteByCurrentUser": false
+  },
+  {
+    "searchId": 4,
+    "searchBody": "Hello! this is the fourth search from same user",
+    "searchTitle": "Post title",
+    "imageUrl": "default.jpg",
+    "searchUserName": "Bharath Raam",
+    "searchUserHandle": ".  @bharath",
+    "upvoteCount": 0,
+    "posts":63,
+    "followers":36,
+    "following":86,
+    "upvoteByCurrentUser": false
+  }
+]

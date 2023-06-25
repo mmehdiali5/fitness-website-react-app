@@ -1,0 +1,78 @@
+.list-group-item {
+  position: relative;
+  padding-left: 20px;
+}
+
+.list-group-item::before {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.wd-icon {
+  display: inline-block;
+  margin-right: 8px;
+}
+.dumbbell{
+margin-left:00px;}
+.wd-text {
+  display: none;
+}
+
+@media (min-width: 1200px) {
+  .wd-text {
+    display: inline;
+  }
+}
+
+.navigation-sidebar {
+  background-color: #8AC7DB;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.list-group-item {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  border: solid 1px;
+  color: #333;
+  transition: background-color 0.3s;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
+
+.list-group-item.active {
+  background-color: #ddd;
+}
+
+.list-group-item .icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  background-color: #ccc;
+  border-radius: 50%;
+  margin-right: 10px;
+  color: #fff;
+}
+
+.list-group-item .icon i {
+  font-size: 16px;
+}
+
+.list-group-item .wd-icon {
+  margin-right: 10px;
+}
+
+.list-group-item .wd-text {
+  flex: 1;
+}
+
+.login-outdivcard {
+  margin-top: 20px;
+}

@@ -1,0 +1,17 @@
+.delete{
+@media (max-width: 700px) {
+font-size:8px;
+ padding: 2px 1px;
+}
+}
+
+
+.nav-pills .nav-link {
+  margin-right: 60px;
+  height:40px;
+}
+
+
+.ad .nav-link {
+  color: black;
+}

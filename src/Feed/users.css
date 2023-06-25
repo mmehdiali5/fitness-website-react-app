@@ -1,0 +1,97 @@
+.users-container {
+  background-color: #f2f2f2;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.nav-link {
+  color: #333;
+  font-weight: bold;
+}
+
+.nav-link.active {
+  color: #fff;
+  background-color: #007bff;
+}
+
+.tab-pane {
+  padding-top: 20px;
+}
+
+@media (max-width: 576px) {
+  .col-md-3 {
+    margin-bottom: 20px;
+  }
+}
+.nav-tabs-container {
+  margin-bottom: 20px;
+}
+
+.nav-tabs {
+  border: none;
+  background-color: #f2f2f2;
+}
+
+.nav-item {
+  position: relative;
+}
+
+.nav-link {
+  position: relative;
+  border: none;
+  background-color: transparent;
+  color: #333;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #007bff;
+}
+.tab-indicator {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0 10px;
+  background-color: #007bff;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.nav-link.active .tab-indicator {
+  background-color: #007bff;
+}
+
+.tab-title {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.content-container {
+  padding: 20px;
+}
+
+.tab-pane {
+  display: none;
+}
+
+.tab-pane.active {
+  display: block;
+}

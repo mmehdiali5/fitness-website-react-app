@@ -1,0 +1,36 @@
+
+.handle{
+margin-left:7px;
+color : dark-grey;}
+
+.username-link {
+  color:  #0645AD;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.username-link:hover {
+  color: darkblue;
+}
+.card {
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.profileview{
+width:150px;}
+
+
+
+

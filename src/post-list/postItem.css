@@ -1,0 +1,46 @@
+.rounded-image {
+  border-radius: 50%;
+}
+
+.image-container {
+  margin-left: 0px;
+}
+
+.rounded-wd {
+  border-radius: 20px;
+}
+.delete-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+.delete-button {
+  cursor: pointer;
+}
+.red-trash-icon {
+  color: red;
+}
+.trashpos {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.delete-button:focus {
+  outline: none;
+}
+
+.temp {
+  border: none;
+  background-color: transparent;
+}
+.tempd {
+  border-radius: 50%;
+}
+
+.moveLeft{
+  margin-left: 20px;
+}
+@media (max-width: 1180px) {
+ .img-fluid{
+ width:300px;}
+}

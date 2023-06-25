@@ -1,0 +1,42 @@
+.btn {
+  height: 50px;
+}
+
+.btn-primary {
+  height: 50px;
+}
+
+.landing-page {
+  padding: 40px;
+}
+
+.request-exercises {
+  color: gray;
+  background-image: url("../images/workout4.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 60px 0;
+  margin-bottom: 40px;
+}
+
+.fitness-posts {
+  background-size: cover;
+  background-position: center;
+  padding: 60px 0;
+  margin-bottom: 40px;
+  background-image: url("../images/workout2.jpg");
+  color: gray;
+}
+
+footer {
+  background-image: url("../images/workout1.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 40px;
+  color: white;
+}
+
+.request-exercises img,
+.fitness-posts img {
+  opacity: 0.8;
+}

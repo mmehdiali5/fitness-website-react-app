@@ -1,0 +1,20 @@
+[
+  {
+    "postId": 1,
+    "postBody": "Hello! this is the first post",
+    "postTitle": "Post title",
+    "imageUrl": "samplepost.webp",
+    "postUserName": "saran",
+    "upvoteCount": 1,
+    "upvoteByCurrentUser": true
+  },
+  {
+    "postId": 2,
+    "postBody": "Hello! this is the second post from same user",
+    "postTitle": "Post title",
+    "imageUrl": "samplepost.webp",
+    "postUserName": "admin",
+    "upvoteCount": 0,
+    "upvoteByCurrentUser": false
+  }
+]

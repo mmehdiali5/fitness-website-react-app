@@ -1,0 +1,41 @@
+
+
+
+.routine{
+
+  background-color: #8AC7DB;
+  padding: 20px;
+  border-radius: 10px;
+}
+.routine-header {
+  display: flex;
+  align-items: center;
+   margin-bottom :35px;
+}
+
+.routine-header h1 {
+  margin-right: 10px;
+margin-top : 10px;
+}
+
+.del {
+  margin-left: auto;
+  width:200px;
+  height :40px;
+  margin-bottom :5px;
+
+}
+.h4{
+margin-top :10px;
+margin-left :30px;
+margin-bottom :25px;}
+.rounded {
+  border-radius: 20px;
+}
+
+
+
+
+
+
+

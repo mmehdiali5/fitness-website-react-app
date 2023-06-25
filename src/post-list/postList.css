@@ -1,0 +1,15 @@
+.post-list {
+  border: 1px solid lightgrey;
+  max-width: 900px;
+  margin: 0 auto;
+  list-style-type: none; 
+}
+
+.post-list-item {
+  border-top: 1px solid lightgrey;
+  padding: 15px;
+}
+
+.post-list-item:first-child {
+  border-top: none;
+}
